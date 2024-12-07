@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/easy_hema/static/css/main.302a270e.css",
+    "main.js": "/easy_hema/static/js/main.1cb87052.js",
+    "static/js/453.0f4d6c6d.chunk.js": "/easy_hema/static/js/453.0f4d6c6d.chunk.js",
+    "index.html": "/easy_hema/index.html",
+    "main.302a270e.css.map": "/easy_hema/static/css/main.302a270e.css.map",
+    "main.1cb87052.js.map": "/easy_hema/static/js/main.1cb87052.js.map",
+    "453.0f4d6c6d.chunk.js.map": "/easy_hema/static/js/453.0f4d6c6d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.302a270e.css",
+    "static/js/main.1cb87052.js"
+  ]
+}
